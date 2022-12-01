@@ -71,4 +71,4 @@ THM{IT'S A Y3T1 CHR1$TMA$}
 
 ## Authors
 
-- [Shanks](https://github.com/HunterShanks)
+- [Shanks :yin_yang:](https://github.com/HunterShanks)
