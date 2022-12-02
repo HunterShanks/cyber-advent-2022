@@ -2,7 +2,7 @@
 
 ![Cyber Advent 2022](imgs/cyber-advent-2022-logo.png)
 
-Welcome to the annual event of [tryhackme](https://tryhackme.com)'s Cyber Advent for 2022! This repo contains all of the solutions completed by myself for the purpose of self-learning and educating others that may stumble upon this repo. Each folder will contain the day's task(s) and solutions as well as any software/programs/scripts that I may create. Enjoy!
+Welcome to the annual event of [tryhackme](https://tryhackme.com)'s [Cyber Advent](https://tryhackme.com/christmas) for 2022! This repo contains all of the solutions completed by myself for the purpose of self-learning and educating others that may stumble upon this repo. Each folder will contain the day's task(s) and solutions as well as any software/programs/scripts that I may create. Enjoy!
 
 
 ## Authors
