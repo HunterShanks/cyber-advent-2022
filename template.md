@@ -1,6 +1,16 @@
-# Cyber Advent 2022 - Day # [Topic] [Title]
+# Cyber Advent 2022 - Day # [$\color{blue}{Topic}$] [Title]
 
-Day # of [tryhackme](https://tryhackme.com)'s Cyber Advent for 2022! This challenge involves solving 
+Day # of [tryhackme](https://tryhackme.com)'s [Advent of Cyber for 2022](https://tryhackme.com/christmas)! This challenge involves solving 
+
+
+#### 
+
+
+
+**Answer:**
+```
+
+```
 
 ## Authors
 

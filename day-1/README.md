@@ -1,6 +1,6 @@
-# Cyber Advent 2022 - Day 1 [Frameworks] [Someone's coming to town!]
+# Cyber Advent 2022 - Day 1 [$\color{blue}{Frameworks}$] [Someone's coming to town!]
 
-Day 1 of [tryhackme](https://tryhackme.com)'s Cyber Advent for 2022! This challenge involves solving 3 puzzles that provide general outlines for various security frameworks. Each puzzle comes with a set of `clues` that will guide you to place the puzzle pieces in the correct order.
+Day 1 of [tryhackme](https://tryhackme.com)'s [Advent of Cyber for 2022](https://tryhackme.com/christmas)! This challenge involves solving 3 puzzles that provide general outlines for various security frameworks. Each puzzle comes with a set of `clues` that will guide you to place the puzzle pieces in the correct order.
 
 ## Puzzle #1
 
@@ -55,16 +55,16 @@ Clues:
 
 ![Puzzle 3 Solution](imgs/puzzle-3-sln.png)
 
-## Answer the questions below
+#### Who is the adversary that attacked Santa's network this year?
 
-Who is the adversary that attacked Santa's network this year?
-
+**Answer:**
 ```
 The Bandit Yeti!
 ```
 
-What's the flag that they left behind?
+#### What's the flag that they left behind?
 
+**Answer:**
 ```
 THM{IT'S A Y3T1 CHR1$TMA$}
 ```
