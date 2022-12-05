@@ -1,4 +1,4 @@
-# Cyber Advent 2022 - Day 1 [$\color{blue}{Frameworks}$] [Someone's coming to town!]
+# Cyber Advent 2022 - Day 1 [<span style="color:blue;">Frameworks</span>] [Someone's coming to town!]
 
 Day 1 of [tryhackme](https://tryhackme.com)'s [Advent of Cyber for 2022](https://tryhackme.com/christmas)! This challenge involves solving 3 puzzles that provide general outlines for various security frameworks. Each puzzle comes with a set of `clues` that will guide you to place the puzzle pieces in the correct order.
 

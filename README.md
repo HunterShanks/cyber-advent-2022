@@ -1,4 +1,4 @@
-# TryHackMe $\color{lime}{Advent}$ $\color{lime}{of}$ $\color{lime}{Cyber}$ $\color{red}{2022}$ :santa: :desktop_computer: :gift:
+# <span style="color:red;">TryHackMe</span> <span style="color:rgb(173,236,66);">Advent of Cyber 2022</span> :santa: :desktop_computer: :gift:
 
 ![Cyber Advent 2022](imgs/cyber-advent-2022-logo.png)
 

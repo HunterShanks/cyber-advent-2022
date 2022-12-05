@@ -1,4 +1,4 @@
-# Cyber Advent 2022 - Day 3 [$\color{red}{OSINT}$] [Nothing escapes detective McRed]
+# Cyber Advent 2022 - Day 3 [<span style="color:red;">OSINT</span>] [Nothing escapes detective McRed]
 
 Day 3 of [tryhackme](https://tryhackme.com)'s [Advent of Cyber for 2022](https://tryhackme.com/christmas)! This challenge involves learning about OSINT techniques. 
 

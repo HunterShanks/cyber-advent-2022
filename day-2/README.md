@@ -1,4 +1,4 @@
-# Cyber Advent 2022 - Day 2 [$\color{blue}{Log}$ $\color{blue}{Analysis}$] [Santa's Naughty & Nice Log]
+# Cyber Advent 2022 - Day 2 [<span style="color:blue;">Log Analysis</span>] [Santa's Naughty & Nice Log]
 
 Day 2 of [tryhackme](https://tryhackme.com)'s [Advent of Cyber for 2022](https://tryhackme.com/christmas)! This challenge involves learning about grep and its basic capabilities. This task requires you to use grep in order to efficiently answer the questions.
 
